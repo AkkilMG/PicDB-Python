@@ -3,7 +3,7 @@
 import requests
 import os
 
-BASE_URL = "https://picdb.izaries.workers.dev/"
+BASE_URL = "https://picdb.avianintek.workers.dev/"
 
 def upload_file(file_path):
     """Upload a file to PicDB."""
